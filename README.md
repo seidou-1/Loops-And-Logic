@@ -1,0 +1,1 @@
+Simple Fizz Buzz FizzBuzz solution example
